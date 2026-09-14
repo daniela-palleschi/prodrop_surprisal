@@ -1,0 +1,7 @@
+item_id,condition,referent_bias,pre_critical_context,critical_word,full_sentence,notes
+1,neutral,none,"O papús / milúse / dinatá / ston egonó tu / ótan / [pro] djávaze /","éna vivlío","O papús milúse dinatá ston egonó tu ótan [pro] djávaze éna vivlío.","original neutral item, book is compatible with either referent"
+1,congruent_old,old_man,"O papús / milúse / dinatá / ston egonó tu / ótan / [pro] djávaze /","éna grámma","O papús milúse dinatá ston egonó tu ótan [pro] djávaze éna grámma.","letter reading skews toward older referent, still high-frequency/child-known word"
+1,congruent_young,young_boy,"O papús / milúse / dinatá / ston egonó tu / ótan / [pro] djávaze /","éna paramýthi","O papús milúse dinatá ston egonó tu ótan [pro] djávaze éna paramýthi.","fairytale strongly child-associated in Greek child-directed speech"
+2,neutral,none,"O gátos / íde / ton peteinó / ótan / [pro/aftós] / épsachne /","gia fagitó","O gátos íde ton peteinó ótan [pro/aftós] épsachne gia fagitó.","neutral, food-searching compatible with either referent; both cat and rooster are masculine, so aftós doesn't disambiguate by gender"
+2,congruent_cat,cat,"O gátos / íde / ton peteinó / ótan / [pro/aftós] / épsachne /","gia pontíkia","O gátos íde ton peteinó ótan [pro/aftós] épsachne gia pontíkia.","mice are a classic cat-associated prey item"
+2,congruent_rooster,rooster,"O gátos / íde / ton peteinó / ótan / [pro/aftós] / épsachne /","gia skoulíkia","O gátos íde ton peteinó ótan [pro/aftós] épsachne gia skoulíkia.","worms are a classic rooster/bird foraging association"
